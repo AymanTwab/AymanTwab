@@ -14,7 +14,7 @@ Here are some of the projects I've worked on:
 - **Technologies:**
   Frontend [Angular, TypeScript, HTML, CSS]
   Backend [ASP.NET Core, Entity Framework, Repository Pattern, Unit of Work, SQL Server]
-- **Demo:** [BookStoreFrontend](http://aymantwabdemo.runasp.net/)
+- **Demo:** [BookStoreWebsite](http://aymantwabdemo.runasp.net/)
 
 ### 🛒 E-commerce Application API
 - **Description:** Backend API for an e-commerce platform.
