@@ -8,15 +8,23 @@ I'm a junior full-stack web developer specializing in building modern web applic
 
 Here are some of the projects I've worked on:
 
+
+### 📚 Bookstore Fullstack Project
+- **Description:** Frontend application for a bookstore.
+- **Technologies:**
+  Frontend [Angular, TypeScript, HTML, CSS]
+  Backend [ASP.NET Core, Entity Framework, Repository Pattern, Unit of Work, SQL Server]
+- **Demo:** [BookStoreFrontend](http://aymantwabdemo.runasp.net/)
+
 ### 🛒 E-commerce Application API
 - **Description:** Backend API for an e-commerce platform.
 - **Technologies:** ASP.NET Core, Entity Framework, Repository Pattern, Unit of Work, SQL Server.
 - **Repository:** [E-commerce_Application_Api](https://github.com/AymanTwab/E-commerce_Application_Api)
 
-### 📚 Bookstore Frontend
-- **Description:** Frontend application for a bookstore.
-- **Technologies:** Angular, TypeScript, HTML, CSS.
-- **Repository:** [BookStoreFrontend](https://github.com/AymanTwab/BookStoreFrontend)
+### 📋 Customer Management System
+- **Description:** An Angular application for managing customer data.
+- **Technologies:** Angular, TypeScript.
+- **Repository:** [Route-Task](https://github.com/AymanTwab/Route-Task)
 
 ### 🧁 Bakery Website
 - **Description:** A static website for a bakery.
@@ -28,10 +36,6 @@ Here are some of the projects I've worked on:
 - **Technologies:** HTML, CSS.
 - **Repository:** [Fokir-website-project](https://github.com/AymanTwab/Fokir-website-project)
 
-### 📋 Customer Management System
-- **Description:** An Angular application for managing customer data.
-- **Technologies:** Angular, TypeScript.
-- **Repository:** [Route-Task](https://github.com/AymanTwab/Route-Task)
 
 ---
 
